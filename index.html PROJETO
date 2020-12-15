@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Portifólio</title>
+    <link rel="stylesheet" href="estilo.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Playfair+Display:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <header>
+      <img class="foto"
+      src="https://lh3.googleusercontent.com/DrwXqIEY3w3SIWG0BhXVyD0H2dIOe-VWLPHoLLiClICQClFixiwquOeLaEllA5uMeOmFxpjAlZJO36VINmaP-wyWxs7OnPJ64UnfpAfbB_boXii6QsPUJWWoQ6voN_xTvWc83CE0rZF-aPzVCBzj4TbnXhL1UDfGDpCS_BdLTFJNp4s3ot17prWRG42Ym7ryBzsdMFz21gzejA0XhURPBiDbeDwt0z7VRTH6UeS9EUuUVw_M_IlTQaAV0SNSgSn7mAsMONN3CvztQVH1-0KVR4u7Sj11_XAwRUpsQq0WgynpXnOE5RSSsR6HSSs9ZVINwWhGmdGhWUZaVdR_S5KaKM0unMSz_m7Ow4_ImbZMCYB5JikjhpkoNGdOFqANFx1GA2aFb1c-dwY_H07RiJBvoeL-WskyoUycoy6dpMI_M2Z6TJFHw5R-Fw8BoHcv7VFmDb36PDbp1pxgu8qI7UKAgW2xoyWRt0gs3LG7d-IR12WEdVSTq1wthC84wp8thfB_49jJ96H8plJ1Eoj48lNN50O7tPi_1_3sTfacO0nvz1imLrEmd-SUp3YOJgJ162L5YzwEsDgCjHEtRPF3tHMIvtZYuzWrJXj0-qAjTdnwJwcSCMdWZHKoXtLw7YRKizvJ9ByZq5K6ZlTXjbSzr_DKbP8WV6BbeTqK6sW7xQ9FZOesv2bfWrHd39VBggvMOg=w336-h369-no?authuser=1"/img>
+      <div class="dados">
+        <h1><span>Francine Santos Almeida</span>, 34</h1>
+        <p class="profissao t60">
+          Desenvolvedora front-end em formação
+        </p>
+      </div>
+    </header>
+    <main>
+      <div class="coluna-menor">
+        <div class="experiencias">
+          <div class="experiencia"></div>
+          <h2>Experiências Profissionais</h2>
+          <div class="linha"></div>
+          <ul>
+            <li>
+              <img
+                src="https://nossainfancia.com.br/site/wp-content/uploads/2017/08/logo2017a.gif"
+              />
+              <div class="conteudo">
+                <h3><b>Digitadora</b> Dinniz Zacharias</h3>
+                <p class="periodo t60">De Julho de 2013 a Novembro de 2019</p>
+              </div>
+            </li>
+            <li>
+              <img
+                src="https://th.bing.com/th/id/OIP.jW8fpOUE3FS7v4oq-hRF-QHaCk?pid=Api&rs=1"
+              />
+              <div class="conteudo">
+                <h3><b>Estagiaria</b> Prodeb</h3>
+                <p class="periodo t60">De Abril de 2003 a Abril de 2004</p>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="formacao">
+          <h2>Formação</h2>
+          <div class="linha"></div>
+          <ul>
+            <li>
+              <img
+                src="https://logodownload.org/wp-content/uploads/2014/12/estacio-logo-faculdade-5.jpg"
+              />
+              <div class="conteudo">
+                <h3><b>Analise e Desenvolvimento de Sistemas</b> Estacio</h3>
+                <p class="periodo t60">De Julho de 2015 a Dezembro de 2020</p>
+              </div>
+            </li>
+            <li>
+              <img
+                src="https://media-exp1.licdn.com/dms/image/C4E0BAQERx0-wHmxU9g/company-logo_200_200/0?e=2159024400&v=beta&t=iZtLuNI7s1c_cGD7h_HaqRXrvG7ctLV5a1uTa5-zyE8"
+              />
+              <div class="conteudo">
+                <h3><b>Imersao Programacao do zero</b> Cubos Academy</h3>
+                <p class="periodo t60">Dezembro de 2020</p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="coluna-maior">
+          <h2>Habilidades</h2>
+          <div class="habilidades">
+          <div class="habilidade">
+              <h3>Front</h3>
+              <ul>
+                <li>
+                  <p>HTML</p>
+                  <div class="progresso">
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                  </div>
+                </li>
+                <li>
+                  <p>CSS</p>
+                  <div class="progresso">
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                  </div>
+                </li>
+                <li>
+                  <p>Java Script</p>
+                  <div class="progresso">
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                  </div>
+                </li>
+                <li>
+                  <p>React</p>
+                  <div class="progresso">
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          <div class="habilidade">
+              <h3>Back</h3>
+              <ul>
+                <li>
+                  <p>Node.Js</p>
+                  <div class="progresso">
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                  </div>
+                </li>
+                <li>
+                  <p>PostgrasSQL</p>
+                  <div class="progresso">
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                  </div>
+                </li>
+                <li>
+                  <p>JWT</p>
+                  <div class="progresso">
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                  </div>
+                </li>
+                <li>
+                  <p>REST</p>
+                  <div class="progresso">
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="habilidade">
+              <h3>Soft Skills</h3>
+              <ul>
+                <li>
+                  <p>Comunicação</p>
+                  <div class="progresso">
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra incompleto"></div>
+                  </div>
+                </li>
+                <li>
+                  <p>Trabalho em Equipe</p>
+                  <div class="progresso">
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                  </div>
+                </li>
+                <li>
+                  <p>Gerenciamento de Tempo</p>
+                  <div class="progresso">
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra incompleto"></div>
+                  </div>
+                </li>
+                <li>
+                  <p>Gestão de Conflitos</p>
+                  <div class="progresso">
+                    <div class="barra"></div>
+                    <div class="barra"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                    <div class="barra incompleto"></div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+        </div>
+
+        <h2>Projetos</h2>
+        <div class="projetos">
+          <div class="projeto">
+              <h3>Portifólio Cubos Academy</h3>
+              <p>Site desenvolvido com orientação dos instrutores da Cubos Academy.</p>
+              <img src="https://www.exhiconworld.com/wp-content/uploads/2014/05/Portfolio.png"/>
+              <a href="http//google.com">VER PROJETO</a>
+            </div>
+        </div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      Projeto desenvolvido durante a imersão da Cubos Academy 2020
+    </footer>
+  </body>
+</html>
